@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 eddie maakt een branche
 
 
@@ -8,7 +6,6 @@ EDDIE!!!1111!!
 
 vaccinaties richie
 
->>>>>>> Stashed changes
 =^.^= meow
 
 EDDIE WAS HERE
