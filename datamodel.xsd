@@ -1,6 +1,10 @@
 Datamodel 
 ik ben een datamodel
 
+<DerdeWijziging>
+	nummer 3 uit `feature/nummer-3-wijzigt-het-datamodel`
+	ben benieuwd of dit een conflict op levert
+</DerdeWijziging>
 <TweedeWijziging>
 	wijziging vanuit `feature/2e-wijziging-in-datamodel`
 </TweedeWijziging>
