@@ -5,6 +5,9 @@ ik ben een datamodel
 	nummer 3 uit `feature/nummer-3-wijzigt-het-datamodel`
 	ben benieuwd of dit een conflict op levert
 </DerdeWijziging>
+<Conflict>
+	VIER
+</Conflict>
 <TweedeWijziging>
 	wijziging vanuit `feature/2e-wijziging-in-datamodel`
 	Ik werk hier nog aan verder
